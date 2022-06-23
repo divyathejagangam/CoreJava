@@ -25,5 +25,5 @@ public class AreaOfFigures {
 	}
 
 }
-/Jun 16/
+//Jun 16
 
