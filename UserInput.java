@@ -34,3 +34,4 @@ public class UserInput {
 				gen=sc.next().charAt(0);
 
 	}}
+//
